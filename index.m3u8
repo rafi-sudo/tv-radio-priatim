@@ -10,7 +10,7 @@ https://stream.pasopatiradio.com/pitaloka
 https://stream.yaomi.blog/galuhfm
 
 #EXTINF:-1 tvg-name="Radio JAS FM" group-title="Jawa Barat - Priangan Timur",Radio JAS FM
-https://stream.ganisrafi.my.id/jasfmbanjar.mp3
+http://192.168.2.101:8000/jasfmbanjar.mp3
 
 #EXTINF:-1 tvg-name="92.3 Arbaya FM Tasikmalaya" group-title="Jawa Barat - Priangan Timur",92.3 Arbaya FM Tasikmalaya
 https://b2.alhastream.com:4270/radio
