@@ -1,1 +1,46 @@
+#EXTM3U
 
+#EXTINF:-1 tvg-name="87.9 Purnama FM Tasikmalaya" group-title="Jawa Barat - Priangan Timur",87.9 Purnama FM Tasikmalaya
+https://stream.purnamafmtasik.com/listen/purnamafm/purnama
+
+#EXTINF:-1 tvg-name="88.3 Pitaloka Ciamis" group-title="Jawa Barat - Priangan Timur",88.3 Pitaloka Ciamis
+https://stream.pasopatiradio.com/pitaloka
+
+#EXTINF:-1 tvg-name="89.5 Galuh FM Tasikmalaya" group-title="Jawa Barat - Priangan Timur",89.5 Galuh FM Tasikmalaya
+https://stream.yaomi.blog/galuhfm
+
+#EXTINF:-1 tvg-name="Radio JAS FM" group-title="Jawa Barat - Priangan Timur",Radio JAS FM
+https://stream.ganisrafi.my.id/jasfmbanjar.mp3
+
+#EXTINF:-1 tvg-name="92.3 Arbaya FM Tasikmalaya" group-title="Jawa Barat - Priangan Timur",92.3 Arbaya FM Tasikmalaya
+https://b2.alhastream.com:4270/radio
+
+#EXTINF:-1 tvg-name="94.6 Style FM Tasikmalaya" group-title="Jawa Barat - Priangan Timur",94.6 Style FM Tasikmalaya
+https://stream.stylefmtasik.com:9460/stream
+
+#EXTINF:-1 tvg-name="96.6 Actari FM Ciamis" group-title="Jawa Barat - Priangan Timur",96.6 Actari FM Ciamis
+https://svara-stream.radioddns.net/ciamis_actarifm_mp3
+
+#EXTINF:-1 tvg-name="101.3 Martha FM Tasikmalaya" group-title="Jawa Barat - Priangan Timur",101.3 Martha FM Tasikmalaya
+https://stream.zeno.fm/o1fbzkao8iotv
+
+#EXTINF:-1 tvg-name="RCA FM Banjar Asooy" group-title="Jawa Barat - Priangan Timur",RCA FM Banjar Asooy
+https://audio-rcafm.asooy.web.id/listen/encode/rcabackup
+
+#EXTINF:-1 tvg-name="102.4 PISS FM Ciamis" group-title="Jawa Barat - Priangan Timur",102.4 PISS FM Ciamis
+https://svara-stream.radioddns.net/ciamis_pissfm_stereo
+
+#EXTINF:-1 tvg-name="Patroman Muara Network" group-title="Jawa Barat - Priangan Timur",Patroman Muara Network Musyik Asyik Nusantara
+https://ssg.streamingmurah.com:8087/listen.mp3
+
+#EXTINF:-1 tvg-name="RIS FM Pangandaran" group-title="Jawa Barat - Priangan Timur",RIS FM Hebring Lah
+https://stream.risfmpangandaran.com/listen/ris_fm_pangandaran/radio.mp3
+
+#EXTINF:-1 tvg-name="105.3 Medina FM Garut" group-title="Jawa Barat - Priangan Timur",105.3 Medina FM Garut
+https://stream.yaomiakba.com/medinafmgarut.ogg
+
+#EXTINF:-1 tvg-name="Radio Masa Kini" group-title="Jawa Barat - Priangan Timur",Radio Masa Kini
+https://ini.radiomasakini.com/listen/rmk/rmk
+
+#EXTINF:-1 tvg-name="Suara Salira" group-title="Jawa Barat - Priangan Timur",Suara Salira
+https://live.suarasalira.com/listen/suarasalira/stream
