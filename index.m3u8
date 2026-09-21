@@ -65,3 +65,27 @@ https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8
 
 #EXTINF:-1,Radar Tasikmalaya
 https://v2.siar.us/radartasikmalaya/live/playlist.m3u8
+
+#EXTINF:-1, Bandung TV
+http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
+
+#EXTINF:-1, Salira TV
+https://live.salira.tv/p/3870/hybrid/play.m3u8
+
+#EXTINF:-1, RRI Bandung Pro 1
+https://stream-node0.rri.co.id/streaming/15/9015/rribandungpro1.mp3
+
+#EXTINF:-1, TVRI Jawa Barat
+https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar.m3u8
+
+#EXTINF:-1, TVRI Jawa Barat AVC1
+https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar-avc1_500000=10007-mp4a_64000=20001.m3u8
+
+#EXTINF:-1, RCTV Radar Cirebon
+https://v10.siar.us/rctv/live/playlist.m3u8
+
+#EXTINF:-1, Caruban TV
+https://stream.carubantv.id/hls/stream.m3u8
+
+#EXTINF:-1, RCTV Radar Cirebon 360p Backup
+http://stream1.ninmedia.tv/rctv/rtmp.stream_360p/playlist.m3u8
