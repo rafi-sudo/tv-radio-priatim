@@ -44,3 +44,24 @@ https://ini.radiomasakini.com/listen/rmk/rmk
 
 #EXTINF:-1 tvg-name="Suara Salira" group-title="Jawa Barat - Priangan Timur",Suara Salira
 https://live.suarasalira.com/listen/suarasalira/stream
+
+#EXTINF:-1,Kartika FM
+https://stream.pasopatiradio.com/kartikafm
+
+#EXTINF:-1,Stara TV Bandung
+https://bandung.staratv.id/hls/2/stream.m3u8
+
+#EXTINF:-1,Stara TV Jakarta
+https://jakarta.staratv.id/hls/0/stream.m3u8
+
+#EXTINF:-1,Inspira TV Bandung
+https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
+
+#EXTINF:-1,Stara TV Sukabumi
+https://stream.staratv.id/hls/stream.m3u8
+
+#EXTINF:-1,Banten TV
+https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8
+
+#EXTINF:-1,Radar Tasikmalaya
+https://v2.siar.us/radartasikmalaya/live/playlist.m3u8
